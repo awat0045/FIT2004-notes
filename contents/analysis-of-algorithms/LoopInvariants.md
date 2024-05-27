@@ -36,13 +36,13 @@ We have determined that the algorithm is correct *if* it terminates, now we need
 ```
 Since mid is the floor of (lo + hi)/2, it is true that
 
-(lo + hi)/2 − 1 < mid ≤ (lo + hi)2
+(lo + hi)/2 − 1 < mid ≤ (lo + hi)/2
 
 Multiplying by two, we find
 lo + hi − 2 < 2 × mid ≤ lo + hi.
 
 Since lo < hi-1, we have lo ≤ hi-2. We replace hi-2 with lo on the left most term in the inequality.
-2 × lo < 2 ×mid ≤ lo + hi.
+2 × lo < 2 × mid ≤ lo + hi.
 
 Next, we add 1 to the right most term.
 2 × lo < 2 ×mid < lo + hi + 1.
