@@ -32,7 +32,7 @@ We first prove the invariant is true at initialisation, then that it is true in 
   2. If key < array[mid], then after setting hi = mid, we will still have array[hi] > key.
 
 ## Proving termination
-We have determined that the algorithm is correct *if* it terminate, now we need to ensure that it actually terminates
+We have determined that the algorithm is correct *if* it terminates, now we need to ensure that it actually terminates
 ```
 Since mid is the floor of (lo + hi)/2, it is true that
 
