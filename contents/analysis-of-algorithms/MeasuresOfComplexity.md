@@ -6,7 +6,7 @@ The *best case* complexity of an algorithm is the fewest possible instructions t
 - Best case complexity isn't determined by it's behaviour for small inputs
 
 ## Worst case complexity
-The *worst case* complexity is the most instructions that an algorithm could possibly exxecute on any possible input
+The *worst case* complexity is the most instructions that an algorithm could possibly execute on any possible input
 
 ## Average case complexity
 The average case complexity is harder to define, however the simplest definition is that the average case complexity is the average number of operations that the algorithm will execute, averaged over all possible inputs of a given size
