@@ -25,6 +25,8 @@ by [Alex Watkins](https://github.com/awat0045)
 - [Counting sort](/contents/algorithms/countingsort.md)
 - [Radix sort](/contents/algorithms/radixsort.md)
 
+### Graph traversal
+- [Depth-first search](/contents/algorithms/dfs.md)
 ### Other algorithms
 - [Karatsuba's algorithm](/contents/algorithms/karatsuba.md)
 
