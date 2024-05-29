@@ -1,6 +1,11 @@
 # Recurrence relations
 A recurrence relation is an equation that defines a sequence based on a rule that gives the next term as a function of the previous terms
 
+## Master Theorem
+Master theorem is a theorem that allows us to solve recurrence relations easily. Below is a worked example demonstrating the steps of applying master theorem on a given recurrence relation. 
+
+![image](https://github.com/awat0045/FIT2004-notes/assets/140218451/49f06fa5-7cdc-406a-b9e3-1e255157d7b4)
+
 # Common recurrence relations
 ## Logarithmic complexity
 ![image](https://github.com/awat0045/FIT2004-notes/assets/140218451/bb23161e-0654-4786-afb6-e2d6ff99d8c4)
