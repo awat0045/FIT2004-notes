@@ -1,5 +1,5 @@
 # Topological sorting
-Given a directed acyclic graph (DAG) G = (V,E), a topological ordering is an ordering of the verices such that every node appears only after all the nodes pointing to it have already appeared.
+Given a directed acyclic graph (DAG) G = (V,E), a topological ordering is an ordering of the vertices such that every node appears only after all the nodes pointing to it have already appeared.
 
 ![image](https://github.com/awat0045/FIT2004-notes/assets/140218451/79f560c9-b419-45d6-b701-bcd289cb640f)
 
