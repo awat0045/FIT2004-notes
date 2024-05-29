@@ -33,5 +33,5 @@ by [Alex Watkins](https://github.com/awat0045)
 ### Other algorithms
 - [Karatsuba's algorithm](/contents/algorithms/karatsuba.md)
 
-# Data structures
+## Data structures
 - [Union-find](/contents/algorithms/unionfind.md)
