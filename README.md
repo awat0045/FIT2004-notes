@@ -7,7 +7,7 @@ by [Alex Watkins](https://github.com/awat0045)
 - [Asymptotic Notation](/contents/analysis-of-algorithms/AsymptoticNotation.md)
 - [Measures of complexity](/contents/analysis-of-algorithms/MeasuresOfComplexity.md)
 
-## Algorithms
+## Algorithms 
 ### Partitioning algorithms
 - [Partitioning](/contents/algorithms/partitioning.md)
   
@@ -24,9 +24,14 @@ by [Alex Watkins](https://github.com/awat0045)
 - [Quicksort](/contents/algorithms/quicksort.md)
 - [Counting sort](/contents/algorithms/countingsort.md)
 - [Radix sort](/contents/algorithms/radixsort.md)
+- [Topological sorting](/contents/algorithms/topologicalsort.md)
 
 ### Graph traversal
 - [Depth-first search](/contents/algorithms/dfs.md)
+- [Breadth-first search](/contents/algorithms/bfs.md)
+  
 ### Other algorithms
 - [Karatsuba's algorithm](/contents/algorithms/karatsuba.md)
 
+# Data structures
+- [Union-find](/contents/algorithms/unionfind.md)
