@@ -29,9 +29,15 @@ by [Alex Watkins](https://github.com/awat0045)
 ### Graph traversal
 - [Depth-first search](/contents/algorithms/dfs.md)
 - [Breadth-first search](/contents/algorithms/bfs.md)
+
+### Greedy algorithms
+- [Dijkstra's algorithm](/contents/algorithms/dijkstra.md)
+- [Prim's algorithm](/contents/algorithms/prims.md)
+- [Kruskal's algorithm](/contents/algorithms/kruskal.md)
   
 ### Other algorithms
 - [Karatsuba's algorithm](/contents/algorithms/karatsuba.md)
 
 ## Data structures
 - [Union-find](/contents/algorithms/unionfind.md)
+- [Graphs](/contents/algorithms/graphs.md)
