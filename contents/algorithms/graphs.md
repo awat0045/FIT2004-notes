@@ -9,6 +9,10 @@ Graphs can have certain attributes that represent their connect between elements
 3. **Weights:** The edges may also be weighted or unweighted. The weight typically represents the cost to travel along that edge. For example, an edge may represent a road between two towns/nodes, where the weight of that edge is the travel time.
 4. **Cycles:** A cycle is an edge/set of edges that connects a vertex to itself. A graph with no cycles or multiple edges between the same pair of vertices is called a *simple graph*.
 
+## Graph density
+- In a directed graph, the maximum number of possible edges we can have is V^2, or V(V-1) if loops aren't allowed (simple graph)
+- In an undirected graph, the maximum number of possible edges is (V^2/2) if loops are allowed, or (V(V-1)/2) otherwise
+
 ## Directed acyclic graph
 A Directed acyclic graph (DAG) is a directed graph with no cycles. They are commonly used on [topological sorting](/contents/algorithms/topologicalsort.md) problems.
 
