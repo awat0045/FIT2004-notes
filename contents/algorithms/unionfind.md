@@ -26,7 +26,7 @@ A disjoint set forest is a forest of sets, where each node represents an element
 ### Time complexity
 - With this unoptimised implementation, *find* will run in linear time, as we will have to follow all the parent pointers in the tree to return the representative.
 
-## Optimising with path compression
+## Optimising with path compression (not examinable)
 Path compression can minimise the time it takes for us to traverse to the root. Instead of linearly searching throughout all nodes to return to the root, we can modify the parent pointer for each node on the path to point directly at the root, so longer paths are compressed and won't have to be traversed again.
 
 ![image](https://github.com/awat0045/FIT2004-notes/assets/140218451/2d206b0e-de7a-4568-b0f0-467c884e9be2)
@@ -41,7 +41,7 @@ Path compression can minimise the time it takes for us to traverse to the root. 
 ### Time complexity
 - It can be shown that the worst-case of performing m operations is now O(m log(n)), meaning each operation will cost at most O(log(n)), much better than the unoptimised version
 
-## Union-by-rank
+## Union-by-rank (not examinable)
 In a union by rank implementation, we maintain a rank for each tree which is an upper bound on the height of each tree. When merging two trees, we make the tree with the smaller rank the child tree. This results in more balanced trees, which we can iterate through more efficiently as they won't be as deep
 
 ![image](https://github.com/awat0045/FIT2004-notes/assets/140218451/90a1df62-54de-4092-bafd-6487515321ae)
