@@ -41,3 +41,10 @@ by [Alex Watkins](https://github.com/awat0045)
 ## Data structures
 - [Union-find](/contents/algorithms/unionfind.md)
 - [Graphs](/contents/algorithms/graphs.md)
+
+## Dynamic programming
+- [Dynamic programming overview](/contents/algorithms/dynamic.md)
+- [Fibonacci optimisation](/contents/algorithms/fibonacci.md)
+- [Coin change problem](/contents/algorithms/coinchange.md)
+- [Knapsack problem](/contents/algorithms/knapsack.md)
+- [Edit distance](/contents/algorithms/editdistance.md)
