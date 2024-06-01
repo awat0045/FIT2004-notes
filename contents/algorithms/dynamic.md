@@ -2,7 +2,7 @@
 The essence of dynamic programming is to solve a problem by breaking it into smaller subproblems and combining the solutions of those subproblems into a solution to the greater problem. Dynamic programming applies when there are overlapping subproblems that repeat multiple times
 
 ## Memoisation
-Memoisation is the process of remembering the solutions to previosuly computed subproblems and storing them in a table for later lookup. This saves us time in the scenario where the same subproblem may need to be computed multiple times, as we can just look it up in the table instead of recomputing.
+Memoisation is the process of remembering the solutions to previosly computed subproblems and storing them in a table for later lookup. This saves us time in the scenario where the same subproblem may need to be computed multiple times, as we can just look it up in the table instead of recomputing.
 
 ![image](https://github.com/awat0045/FIT2004-notes/assets/140218451/7266fcdc-6498-48aa-ac91-bd246815ac7e)
 
