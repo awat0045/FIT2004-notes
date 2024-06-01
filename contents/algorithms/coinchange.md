@@ -35,7 +35,7 @@ We managed to find the optimal solution to the coin change problem, however we h
 ## Method 1: Backtracking
 The first method is to backtrack through the subproblems to figure out what choices were made that lead to the optimal solution. For example, in the coin change example given earlier, the fewest coins needed to make $13 was three, so we could backtrack through the entries of the dynamic programming table over values of i = 1 to n until we found a coin ci such that MinCoins[13 - ci] = 2. When we find such a coin, the optimal substructure of the problem tells us that this coin is optimal. We then subtract ci from 13 and repeat until we reach V = 0 at which point we know we have constructed the entire solution.
 
-## Pseudocde - Backtracking
+## Pseudocode - Backtracking
 ```
 1: function GET_COINS(c[1..n], V , MinCoins[0..V ])
 2:   if MinCoins[V ] =∞ then return error
