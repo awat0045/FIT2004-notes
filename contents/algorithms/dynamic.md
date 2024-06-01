@@ -6,7 +6,7 @@ Memoisation is the process of remembering the solutions to previosuly computed s
 
 ![image](https://github.com/awat0045/FIT2004-notes/assets/140218451/7266fcdc-6498-48aa-ac91-bd246815ac7e)
 
-- An example of memoisation on a fibonacci sequence. Notice how we don't have to recalculate repeat calculations.
+- An example of memoisation on a [fibonacci](/contents/algorithms/fibonnaci.md) sequence. Notice how we don't have to recalculate repeat calculations.
 
 ## Optimal Substructure
 A combinatorial problem exhibits optimal substructure if it can be broken down into smaller subproblems, such that the solutions to the subproblems can be combined to obtain a solution to the original problem.
