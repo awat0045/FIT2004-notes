@@ -1,4 +1,6 @@
 # FIT2004 exam notes
+These are notes I have taken whilst revising the FIT2004 course notes. Large parts are directly taken from the course notes, however a lot of it is also re-written into terms I find easier to understand.  
+  
 by [Alex Watkins](https://github.com/awat0045)
 
 ## Analysis of algorithms
