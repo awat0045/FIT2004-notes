@@ -12,6 +12,7 @@ by [Alex Watkins](https://github.com/awat0045)
 ## Data structures
 - [Union-find](/contents/algorithms/unionfind.md)
 - [Graphs](/contents/algorithms/graphs.md)
+- [Hash tables](/contents/algorithms/hashtables.md)
 
 ## Algorithms 
 ### Partitioning algorithms
@@ -58,4 +59,7 @@ by [Alex Watkins](https://github.com/awat0045)
 
 ## Network flow
 - [Ford-Fulkerson](/contents/algorithms/fordfulkerson.md)
+- [Minimum cut problem](/contents/algorithms/mincut.md)
+- [Bipartite matching](/contents/algorithms/bipartite.md)
+- [Circulations with demands](/contents/algorithms/circulations.md)
 
