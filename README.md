@@ -13,6 +13,10 @@ by [Alex Watkins](https://github.com/awat0045)
 - [Union-find](/contents/algorithms/unionfind.md)
 - [Graphs](/contents/algorithms/graphs.md)
 - [Hash tables](/contents/algorithms/hashtables.md)
+- [AVL trees](/contents/algorithms/AVLtree.md)
+- [Prefix tries](/contents/algorithms/prefix_tries.md)
+- [Suffix trees](/contents/algorithms/suffix_tree.md)
+- [Suffix arrays](/contents/algorithms/suffix_array.md)
 
 ## Algorithms 
 ### Partitioning algorithms
