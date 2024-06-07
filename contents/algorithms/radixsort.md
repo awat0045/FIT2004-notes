@@ -27,7 +27,7 @@ There are many types of radix sorts, however we'll focus on the Least significan
 ## Time and space complexity 
 |     |Best case|Average Case|Worst Case|
 |---  |---------|------------|----------|
-| Time |O(k(n+b))|O(k(n+b))O(k(n+b))|
+| Time |O(k(n+b))|O(k(n+b))|O(k(n+b))|
 |Auxiliary Space|O(n + b)|O(n + b)|O(n + b)|
 - The time complexity comes from us doing a counting sort k number of times, where k is the number of digits in our numbers
 - The space complexity is just that of counting sort
