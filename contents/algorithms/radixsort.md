@@ -1,5 +1,5 @@
 # Radix sort
-There are many types of radix sorts, however we'll focus on the Least significant digit (LSD) version. It works by sorting an array of elements one digit at a time, from the least significant (furtherst right) to the most significant. Each digit must be sorted in a stable manner to maintain the relative ordering of the previously sorted digits. Since each digit has a small range of possible values (0-9) we will use a stable counting sort.
+There are many types of radix sorts, however we'll focus on the Least significant digit (LSD) version. It works by sorting an array of elements one digit at a time, from the least significant (furtherst right) to the most significant. Each digit must be sorted in a stable manner to maintain the relative ordering of the previously sorted digits. Since each digit has a small range of possible values (0-9) we will use a stable [counting sort](/contents/algorithms/countingsort.md).
 
 ![image](https://github.com/awat0045/FIT2004-notes/assets/140218451/0c8c4d0a-942e-47b3-9aaf-a4f57436c875)
 
