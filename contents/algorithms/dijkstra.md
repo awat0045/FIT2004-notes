@@ -68,5 +68,5 @@ The main difference is that we allow the priority queue to contain multiple entr
 15: return dist[1..n], pred[1..n]
 ```
 ## Time complexity
-- This implementation will change the complexity so that priority queue operations run in O(log(E)) size instead of O(log(V)), causing the worst case to be O(V log(E))
+- This implementation will change the complexity so that priority queue operations run in O(log(E)) size instead of O(log(V)), causing the worst case to be O(E log(V))
 - This may seem worse on paper since there can be up to v^2 edges on a graph, on a simple graph we can only have half as many edges making it asymptotically equivalent to the old implementation whilst being easier to implement/
