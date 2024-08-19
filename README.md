@@ -1,5 +1,5 @@
 # FIT2004 exam notes
-These are notes I have taken whilst revising the FIT2004 course notes. Large parts are directly taken from the course notes, however a lot of it is also re-written into terms I find easier to understand.  
+These are notes I have taken whilst revising the FIT2004 course notes. Large parts (specifically the pseudocode) are directly taken from the course notes (developed by Daniel Anderson and edited by Nathan Companez and Rafael Dowsley), however a lot of it is also re-written into terms I find easier to understand.  
   
 by [Alex Watkins](https://github.com/awat0045)
 
